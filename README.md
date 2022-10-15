@@ -1,2 +1,2 @@
 # Advanced SQL
-Repo for advanced SQL concepts and useful application cases.
+Repository for advanced SQL concepts and useful application cases.
